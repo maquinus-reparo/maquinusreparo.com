@@ -5,33 +5,33 @@
         "description": "Le devolvemos la magina a tu PC reinstalando Windows desde cero."
     },
     {
-        "spell": "ASDasdsadasdsd",
+        "spell": "Fregotego",
         "icon": "img/services/windows.webp",
-        "description": "Le devolvemos la magina a tu PC reinstalando Windows desde cero."
+        "description": "Limpieza y mantenimiento."
+    },
+    {
+        "spell": "SO",
+        "icon": "img/services/windows.webp",
+        "description": "Reinstalación de sistema operativo."
     },
     {
         "spell": "Reinstalo",
         "icon": "img/services/windows.webp",
-        "description": "Le devolvemos la magina a tu PC reinstalando Windows desde cero."
+        "description": "Instalación de SSD."
     },
     {
         "spell": "Reinstalo",
         "icon": "img/services/windows.webp",
-        "description": "Le devolvemos la magina a tu PC reinstalando Windows desde cero."
+        "description": "Armado de PCs."
     },
     {
         "spell": "Reinstalo",
         "icon": "img/services/windows.webp",
-        "description": "Le devolvemos la magina a tu PC reinstalando Windows desde cero."
+        "description": "Cambio de pasta térmica."
     },
     {
         "spell": "Reinstalo",
         "icon": "img/services/windows.webp",
-        "description": "Le devolvemos la magina a tu PC reinstalando Windows desde cero."
-    },
-    {
-        "spell": "Reinstalo",
-        "icon": "img/services/windows.webp",
-        "description": "Le devolvemos la magina a tu PC reinstalando Windows desde cero."
+        "description": "Aumento de memoria RAM."
     }
 ]
