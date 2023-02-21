@@ -1,37 +1,37 @@
 [
     {
         "spell": "Reinstalo",
-        "icon": "img/services/windows.webp",
-        "description": "Le devolvemos la magina a tu PC reinstalando Windows desde cero."
+        "icon": "img/services/package.png",
+        "description": "Le devolvemos la magina a tu PC reinstalando tu sistema operativo desde cero."
     },
     {
         "spell": "Fregotego",
-        "icon": "img/services/windows.webp",
-        "description": "Limpieza y mantenimiento."
+        "icon": "img/services/clean.png",
+        "description": "Nuestros encantamientos dejaran a tu computadora como nueva."
     },
     {
-        "spell": "SO",
-        "icon": "img/services/windows.webp",
-        "description": "Reinstalación de sistema operativo."
+        "spell": "Disco Reinstalo",
+        "icon": "img/services/hdd.png",
+        "description": "Cambiamos tu disco duro para que tengas mas espacio donde almacenar esos hechizos."
     },
     {
-        "spell": "Reinstalo",
-        "icon": "img/services/windows.webp",
-        "description": "Instalación de SSD."
+        "spell": "SSD",
+        "icon": "img/services/ssd.png",
+        "description": "¿Windows inicia en menos de 10 segundos? Si, ¡reemplazamos tu disco duro con uno 10 veces mas rapido!"
     },
     {
-        "spell": "Reinstalo",
-        "icon": "img/services/windows.webp",
-        "description": "Armado de PCs."
+        "spell": "Armatus",
+        "icon": "img/services/pc.png",
+        "description": "Traenos las piezas de tu PC y nosotros te la armamos el mismo dia."
     },
     {
-        "spell": "Reinstalo",
-        "icon": "img/services/windows.webp",
-        "description": "Cambio de pasta térmica."
+        "spell": "Pastus Reinstalo",
+        "icon": "img/services/thermal.png",
+        "description": "Tu procesador se calienta demasiado? Te hacemos cambio de pasta termica."
     },
     {
-        "spell": "Reinstalo",
-        "icon": "img/services/windows.webp",
-        "description": "Aumento de memoria RAM."
+        "spell": "Memorium Incremento",
+        "icon": "img/services/ram.png",
+        "description": "Aumentamos la memoria RAM de tu sistema para que corras los juegos mas recientes."
     }
 ]
