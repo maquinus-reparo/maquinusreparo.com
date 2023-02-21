@@ -1,1 +1,3 @@
+localStorage.clear()
+
 paintServices()
