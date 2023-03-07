@@ -21,10 +21,10 @@
         "price": 200
     },
     {
-        "spell": "SSD",
+        "spell": "Velox Incremento",
         "icon": "img/services/ssd.png",
         "description": "¿Windows inicia en menos de 10 segundos? Si, ¡reemplazamos tu disco duro con uno 10 veces mas rapido!",
-        "disclaimer": "Costo de disco adicional.",
+        "disclaimer": "Costo de SSD adicional.",
         "price": 200
     },
     {
