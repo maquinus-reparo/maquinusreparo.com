@@ -2,36 +2,48 @@
     {
         "spell": "Reinstalo",
         "icon": "img/services/package.png",
-        "description": "Le devolvemos la magina a tu PC reinstalando tu sistema operativo desde cero."
+        "description": "Le devolvemos la magia a tu PC reinstalando tu sistema operativo desde cero."
+        "disclaimer": null,
+        "price": $ 200
     },
     {
         "spell": "Fregotego",
         "icon": "img/services/clean.png",
-        "description": "Nuestros encantamientos dejaran a tu computadora como nueva."
+        "description": "Nuestros encantamientos dejarán a tu computadora como nueva.",
+        "disclaimer": "Limpieza externa del equipo.",
+        "price": $ 300
     },
     {
         "spell": "Disco Reinstalo",
         "icon": "img/services/hdd.png",
-        "description": "Cambiamos tu disco duro para que tengas mas espacio donde almacenar esos hechizos."
+        "description": "Cambiamos tu disco duro para que tengas más espacio donde almacenar tus hechizos.",
+        "disclaimer": "Costo de disco adicional.",
+        "price": $ 200
     },
     {
         "spell": "SSD",
         "icon": "img/services/ssd.png",
-        "description": "¿Windows inicia en menos de 10 segundos? Si, ¡reemplazamos tu disco duro con uno 10 veces mas rapido!"
+        "description": "¿Windows inicia en menos de 10 segundos? Si, ¡reemplazamos tu disco duro con uno 10 veces mas rapido!",
+        "disclaimer": "Costo de disco adicional.",
+        "price": $ 200
     },
     {
         "spell": "Armatus",
         "icon": "img/services/pc.png",
-        "description": "Traenos las piezas de tu PC y nosotros te la armamos el mismo dia."
+        "description": "Te diseñamos tu PC o trae tus piezas y nosotros te la armamos el mismo dia.",
+        "price": $ 500
     },
     {
         "spell": "Pastus Reinstalo",
         "icon": "img/services/thermal.png",
-        "description": "Tu procesador se calienta demasiado? Te hacemos cambio de pasta termica."
+        "description": "¿Tu procesador se calienta demasiado? Te hacemos cambio de pasta termica.",
+        "price": $ 300
     },
     {
         "spell": "Memorium Incremento",
         "icon": "img/services/ram.png",
-        "description": "Aumentamos la memoria RAM de tu sistema para que corras los juegos mas recientes."
+        "description": "Aumentamos la memoria RAM de tu sistema para que corras los juegos más recientes.",
+         "disclaimer": "Costo de RAM adicional.",
+        "price": $ 150
     }
 ]
