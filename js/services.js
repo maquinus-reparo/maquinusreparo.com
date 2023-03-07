@@ -21,6 +21,12 @@ function generateServices(services) {
                     <div class="card-body">
                         <img src="${service.icon}" class="card-icon" />
                         <p>${service.description}</p>
+                        <p class="${service.disclaimer ? "disclaimer" : ""}">${service.disclaimer ?? ""}</p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="content">
+                            <a href="https://ig.me/m/maquinusreparo" class="money">$ ${service.price} MXN</a>
+                        </div>
                     </div>
                 </div>
             </div>

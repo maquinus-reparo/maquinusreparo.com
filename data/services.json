@@ -2,9 +2,9 @@
     {
         "spell": "Reinstalo",
         "icon": "img/services/package.png",
-        "description": "Le devolvemos la magia a tu PC reinstalando tu sistema operativo desde cero."
-        "disclaimer": null,
-        "price": 200
+        "description": "Le devolvemos la magia a tu PC reinstalando tu sistema operativo desde cero.",
+        "disclaimer": "Incluye copia de seguridad",
+        "price": 250
     },
     {
         "spell": "Fregotego",
