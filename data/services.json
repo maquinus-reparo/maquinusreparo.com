@@ -31,19 +31,21 @@
         "spell": "Armatus",
         "icon": "img/services/pc.png",
         "description": "Te diseñamos tu PC o trae tus piezas y nosotros te la armamos el mismo dia.",
+        "disclaimer": null,
         "price": 500
     },
     {
         "spell": "Pastus Reinstalo",
         "icon": "img/services/thermal.png",
         "description": "¿Tu procesador se calienta demasiado? Te hacemos cambio de pasta termica.",
+        "disclaimer": null,
         "price": 300
     },
     {
         "spell": "Memorium Incremento",
         "icon": "img/services/ram.png",
         "description": "Aumentamos la memoria RAM de tu sistema para que corras los juegos más recientes.",
-         "disclaimer": "Costo de RAM adicional.",
+        "disclaimer": "Costo de RAM adicional.",
         "price": 150
     }
 ]
